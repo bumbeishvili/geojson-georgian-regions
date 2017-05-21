@@ -52,3 +52,13 @@ Linked resources
   	SERVICE wikibase:label { bd:serviceParam wikibase:language "ka" }
  }
  ```
+ 
+ 
+ 
+ [overpass-turbo](http://overpass-turbo.eu/)  
+ query  
+ ```
+area[name="საქართველო"];
+(node["place"~"town|city"](area););
+out;
+ ```
