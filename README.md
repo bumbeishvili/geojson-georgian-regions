@@ -1,6 +1,7 @@
 # geojson-georgian-regions
 GeoJson Data For Georgian Regions and Subregions
 
+## See the preview  [at observablehq](https://beta.observablehq.com/@bumbeishvili/simple-map-of-georgia)
 
 credits : [Eric Barrett](https://github.com/brrttwrks)
 
