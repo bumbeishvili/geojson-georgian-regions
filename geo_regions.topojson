@@ -1,7 +1,7 @@
 {
   "type": "Topology",
   "objects": {
-    "geo_regions.geojson.txt": {
+    "geo_regions": {
       "type": "GeometryCollection",
       "crs": {
         "type": "name",
